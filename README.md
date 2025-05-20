@@ -5,7 +5,7 @@
   <a href="mailto:nkvnitinkumarverma@gmail.com">
     <img src="https://img.shields.io/badge/Email-nkvnitinkumarverma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/nitinverna22">
+  <a href="https://github.com/nitinverma22">
     <img src="https://img.shields.io/badge/GitHub-nitinverna22-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
