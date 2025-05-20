@@ -56,8 +56,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinverna22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinverna22&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinverma22&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinverma22&theme=tokyonight" />
 </p>
 
 ---
