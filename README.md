@@ -58,6 +58,36 @@
 
 ---
 
+<h2 align="center" class="animate__animated animate__fadeInDown animate__delay-1s">💼 My Projects</h2>
+
+<div align="center" class="animate__animated animate__fadeInUp animate__delay-2s">
+
+  <!-- Project 1 -->
+  <div style="margin: 20px; max-width: 600px;">
+    <h3>🔗 <a href="https://your-live-link.com" target="_blank">Business Scraper App</a></h3>
+    <p>A full-stack business data scraper that fetches business details from Google Maps with filters and Excel export feature.<br>
+    <strong>Tech Stack:</strong> FastAPI, Selenium, Next.js, Tailwind, Python, TypeScript
+    </p>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="margin: 20px; max-width: 600px;">
+    <h3>🎮 <a href="https://your-live-link.com" target="_blank">Bottle Shoot Game</a></h3>
+    <p>A fun React Native game where bottles follow a parabolic path, and you shoot them for coins. Includes sound and wallet logic.<br>
+    <strong>Tech Stack:</strong> React Native, Expo, TypeScript
+    </p>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="margin: 20px; max-width: 600px;">
+    <h3>🏗️ <a href="https://nqdesigns.co" target="_blank">NQ Designs Website</a></h3>
+    <p>Full professional website for an architecture & interior design company with consultation form, gallery, SEO, and mobile UI.<br>
+    <strong>Tech Stack:</strong> Next.js, Tailwind CSS, React Hook Form, Framer Motion
+    </p>
+  </div>
+
+</div>
+
 ## 📈 GitHub Stats
 
 <p align="center" class="animate__animated animate__zoomIn animate__delay-1s">
