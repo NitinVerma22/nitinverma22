@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-nkvnitinkumarverma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/nitinverma22">
-    <img src="https://img.shields.io/badge/GitHub-nitinverna22-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-nitinverma22-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
   <a href="mailto:nkvnitinkumarverma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nkvnitinkumarverma@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/nitinverna22">
-    <img src="https://img.shields.io/badge/GitHub-nitinverna22-black?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/nitinverma22">
+    <img src="https://img.shields.io/badge/GitHub-nitinverma22-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
