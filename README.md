@@ -64,16 +64,16 @@
 
   <!-- Project 1 -->
   <div style="margin: 20px; max-width: 600px;">
-    <h3>🔗 <a href="https://your-live-link.com" target="_blank">Business Scraper App</a></h3>
-    <p>A full-stack business data scraper that fetches business details from Google Maps with filters and Excel export feature.<br>
-    <strong>Tech Stack:</strong> FastAPI, Selenium, Next.js, Tailwind, Python, TypeScript
+    <h3>🔗 <a href="https://wedding-tau-cyan.vercel.app/" target="_blank">Wedding Album Website</a></h3>
+    <p>A  beautiful wedding website with audio paly pause, album view , image download features user can easily share whole website or a single photo to his relatives easily .<br>
+    <strong>Tech Stack:</strong>  Next.js, Tailwind,TypeScript
     </p>
   </div>
 
   <!-- Project 2 -->
   <div style="margin: 20px; max-width: 600px;">
-    <h3>🎮 <a href="https://your-live-link.com" target="_blank">Bottle Shoot Game</a></h3>
-    <p>A fun React Native game where bottles follow a parabolic path, and you shoot them for coins. Includes sound and wallet logic.<br>
+    <h3>🎮 <a href="https://crm-lyart-six.vercel.app/" target="_blank">CRM Web App</a></h3>
+    <p> This web app provide features to upload bulk cleint leads in excel format , User can easily call to clients using call button and after call update the call status.<br>
     <strong>Tech Stack:</strong> React Native, Expo, TypeScript
     </p>
   </div>
